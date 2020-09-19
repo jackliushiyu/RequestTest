@@ -1,4 +1,4 @@
-from runner.ranzhi_runner import Runner
+from runner.runner import Runner
 
 
 class PhpTest:
